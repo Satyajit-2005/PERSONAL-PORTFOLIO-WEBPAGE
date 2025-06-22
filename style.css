@@ -1,0 +1,50 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+}
+
+.navbar h2 {
+  display: inline;
+  margin-left: 10px;
+}
+
+.navbar ul {
+  display: inline;
+  float: right;
+  list-style: none;
+  margin-right: 20px;
+}
+
+.navbar ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+.navbar ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+.section {
+  padding: 40px;
+  background-color: #f2f2f2;
+  border-bottom: 1px solid #ccc;
+}
+
+.section h1 {
+  color: #333;
+}
+
+.footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
